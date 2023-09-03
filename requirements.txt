@@ -1,3 +1,5 @@
-telethon==1.21.0
-pytube==11.0.0
-youtubesearchpython==1.4.1
+Python==3.8.5
+telethon==1.23.0
+youtubesearchpython==1.5.7
+pyfiglet==0.8.post1
+termcolor==1.1.0
